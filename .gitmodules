@@ -1,0 +1,3 @@
+[submodule "MockSubmodule"]
+	path = MockSubmodule
+	url = https://github.com/GRV96/MockSubmodule
