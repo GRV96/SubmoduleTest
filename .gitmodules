@@ -1,6 +1,6 @@
 [submodule "MockSubmodule"]
 	path = MockSubmodule
 	url = https://github.com/GRV96/MockSubmodule
-[submodule "LoopIndex"]
-	path = LoopIndex
-	url = https://github.com/GRV96/LoopIndex
+[submodule "loop_index"]
+	path = loop_index
+	url = https://github.com/GRV96/loop_index
